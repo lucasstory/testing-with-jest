@@ -22,5 +22,5 @@ test('pop on stack returns the top value before it is removed', () => {
     stack.push(1)
     stack.push("wow")
     stack.push(2)
-    expect(stack.pop()).toBe("wow")
+    expect(stack.pop()).toBe(2)
 })
