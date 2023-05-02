@@ -1,0 +1,22 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "Ett projekt med Jest",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasstory/testing-with-jest.git"
+  },
+  "author": "Lucas Eliasson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasstory/testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/lucasstory/testing-with-jest#readme"
+}
